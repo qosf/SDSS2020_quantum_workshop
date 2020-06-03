@@ -1,6 +1,6 @@
 # Introduction to programming quantum computers
 
-This repo contains all the resources for the SDSS 2020 workshop on "Introduction to programming quantum computers". The workshop was organized by the [Quantum Open Source Foundation](https://qosf.org) and took place on June 3rd 2020 in a virtual Webex meeting. It was conducted by [Mark Fingerhuth](https://github.com/markf94). We would like to thank the [Rigetti Computing](https://rigetti.com) team and give credit to some of their (previous) employees ([Nikolas Tezak](https://github.com/ntezak) and [Will Zeng](https://github.com/willzeng) specifically) since some of our slides used some of their resources and slides.
+This repo contains all the resources for the [Symposium on Data Science and Statistics (SDSS) 2020](https://ww2.amstat.org/meetings/sdss/2020/) workshop on "Introduction to programming quantum computers". The workshop was organized by the [Quantum Open Source Foundation](https://qosf.org) and took place on June 3rd 2020 in a virtual Webex meeting. It was conducted by [Mark Fingerhuth](https://github.com/markf94). We would like to thank the [Rigetti Computing](https://rigetti.com) team and give credit to some of their (previous) employees ([Nikolas Tezak](https://github.com/ntezak) and [Will Zeng](https://github.com/willzeng) specifically) since some of our slides used some of their resources and slides.
 
 ## Getting started
 
